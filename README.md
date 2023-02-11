@@ -15,9 +15,9 @@ This is a simple program for displaying quote information to client, and be fini
 	mysql> source <project directory path>/resources/create.sql
 ```
 - if script runs successfully, you will have these things setup in your database:
--- database: stock
--- table   : quote
--- user    : test
+	- database: stock
+	- table   : quote
+	- user    : test
 
 # Setup - API Key
 - Visit https://www.alphavantage.co/support/#api-key and Generate an API key.
