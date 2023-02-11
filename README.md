@@ -1,5 +1,5 @@
-# ThreeUK technical interivew
-This is a simple program for displaying quote information to client
+# Technical interivew
+This is a simple program for displaying quote information to client, and be finished within 3 hours time limit 
 
 # Prerequisite
 - PHP 7.0.0+
